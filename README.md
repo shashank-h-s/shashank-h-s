@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shashank hs 
-- 👀 I’m interested in software developer
+- 👋 Hi, I’m Shashank HS 
+- 👀 I’m interested in Java software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
 <!---
